@@ -56,32 +56,31 @@ Machine learning and financial-risk analysis for selecting an oil-development re
 
 ## Technical stack
 
-**Languages and data**
+**Core**
 - Python
-- SQL
 - pandas
 - NumPy
-- PySpark
+- scikit-learn
+- Git
+- Jupyter Notebook
 
 **Machine learning**
-- scikit-learn
 - LightGBM
 - XGBoost
 - CatBoost
 - Optuna
 - SHAP
 
+**Data and distributed computing**
+- SQL
+- PySpark
+- Spark MLlib
+
 **Analysis and visualization**
 - matplotlib
 - seaborn
 - PhiK
 - statsmodels
-- Jupyter Notebook
-
-**Tools**
-- Git
-- GitHub
-- Spark MLlib
 
 ## Current focus
 
