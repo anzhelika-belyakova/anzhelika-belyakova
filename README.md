@@ -72,7 +72,6 @@ Machine learning and financial-risk analysis for selecting an oil-development re
 - SHAP
 
 **Data and distributed computing**
-- SQL
 - PySpark
 - Spark MLlib
 
